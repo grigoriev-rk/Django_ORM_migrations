@@ -10,3 +10,4 @@
 Работы должны соответствовать принятому [стилю оформления кода](https://github.com/netology-code/codestyle/tree/master/python).
 
 Любые вопросы по решению задач задавайте в чате учебной группы.
+![image](https://github.com/grigoriev-rk/HW_4_Django/assets/108183544/de2980a8-3594-43e6-adb5-72741c12cd9c)
